@@ -1,3 +1,6 @@
+# Get the API KEY
+Go to [GET-API-KEY.md](https://github.com/flip360pranjit/netflix-clone/blob/master/GET-API-KEY.md)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
